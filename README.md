@@ -3,4 +3,4 @@
 
 ## 前端js插件库
 
-[js-plugin](./front/plugin.md)
+[js-plugin](./front/plugins.md)
